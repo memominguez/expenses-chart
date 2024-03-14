@@ -36,8 +36,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Pending
-- Live Site URL: Pending
+
+- Solution URL:  [Github repository](https://github.com/memominguez/expenses-chart)
+- Live Site URL:  [Netlify](https://expenses-chart-recharts.netlify.app)
 
 
 ## My process
